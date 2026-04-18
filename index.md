@@ -1,6 +1,11 @@
-## Introduction
+---
+layout: default
+---
 
-Synexpression Groups (SGs) consist of genes that are involved in the same biological processes with shared complex regulation of expression that are in proximity spatially. However, the ability to predict gene co-expression from frequent remote chromatin interactions is difficult, even though there is a correlation between chromatin interactions and gene co-expression. There is increasing evidence that suggest these SGs are vital components of the complex multicellular matrix of all biological species.  Nonetheless, there has been little systemic genome-wide research into SGs; the exact means to which they are regulated, their cluster frequency and how widespread they occur within the genome remains unclear.
+## Scientific Abstract:
+
+Convergent evolution provides a framework for understanding how similar functional pressures shape biological systems across distantly related taxa. Although morphological convergence is well documented, less is known about the molecular evolution of complex physiological processes such as wound healing. Here, we conducted a comparative genomic analysis of the gelatinases MMP2 and MMP9 across 13 vertebrate species representing diverse ecological niches and healing strategies. Phylogenetic reconstruction, pairwise sequence divergence, and multiple sequence alignments revealed strong conservation of MMP2 across taxa, consistent with essential proteolytic function. In contrast, MMP9 displayed greater variability, particularly within regulatory and accessory domains. Several amino acid substitutions were uniquely shared among cetaceans, suggesting lineage-specific adaptations affecting extracellular matrix remodelling. These findings highlight contrasting evolutionary dynamics between MMP2 and MMP9 and identify candidate regions potentially associated with divergent wound-healing strategies.
+
 
 ### Sub-Headin
 [Link to Code Used](https://i-milligan.github.io/Synexpression-Groups-Identification/pearson)
