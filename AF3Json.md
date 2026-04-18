@@ -130,5 +130,5 @@ if __name__ == "__main__":
 ### AF3Json Github Repository
 [AF3Json Utility](https://github.com/ianandersonlol/AFSJson)
 
-[                                      back](./)
+[back](./)
 
